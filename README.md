@@ -5,7 +5,7 @@ Old logo:
 ![ref.webp](./ref.webp)
 
 New Logo:
-
+![logo.png](./logo.png)
 
 ## Contributing
 

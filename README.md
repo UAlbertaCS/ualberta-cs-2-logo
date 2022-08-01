@@ -7,6 +7,8 @@ Old logo:
 New Logo:
 ![logo.png](./logo.png)
 
+![render.webm](./render.webm)
+
 ## Contributing
 
 PR with new photo (do png)
